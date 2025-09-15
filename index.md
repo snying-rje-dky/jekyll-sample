@@ -2,7 +2,7 @@
 layout: home
 title: Welcome Home! :D 
 header:
-    image: /assets/images/trees.jpg.png
+    image: /assets/images/tree.jpg.png
 ---
 
 # This is my home page!
