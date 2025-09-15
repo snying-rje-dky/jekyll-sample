@@ -1,6 +1,6 @@
 title : The First Jekyll Site
 author :
-  name : Daycho K.Y
+  name : Daycho
   email : dkyude25@stlawu.edu
   github : snying-rje-dky
 
@@ -8,8 +8,7 @@ url: "https://snying-rje-dky.github.io" # the base hostname & protocol for your 
 baseurl: "/jekyll-sample" # the subpath of your site, e.g. /repositoryname
 
 remote_theme: mmistakes/minimal-mistakes@4.27.3
-minimal_mistakes_skin: "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-
+minimal_mistakes_skin: "sunrise"
 
 kramdown:
   # Use GitHub flavored markdown, including triple backtick fenced code blocks
