@@ -7,7 +7,7 @@ header:
     actions:
         - label: "Learn More"
           url: /about
-    overlay_filter: rgba(76, 158, 155, 0.5)
+    overlay_filter: rgba(76, 158, 155, 0.75)
 ---
 
 # This is my home page!
